@@ -1,2 +1,2 @@
 # Site_Cafeteria
-Linguagem usadas: HTML, CSS e Jscrpit
+Linguagem usadas: HTML e CSS
